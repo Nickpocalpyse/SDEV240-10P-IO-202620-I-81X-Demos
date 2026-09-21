@@ -1,0 +1,7 @@
+My implementation compared to my actual code is a little different as I had to change a few things after realizing some of my mistakes when working on the UML.  
+My first probrem was that I used a Static class for the derived and so forth causing me to have to re design the object functions a little and having to do some reworking.
+One of the reworkings I did was fixing the code up so that it was two derived classes where 1 outputs the basic displays whiole the other did most of the math parts like calculating the letter grade and average.
+I used the main class Grading for the inheritance of the other classes ConsoleGrading and GradeCalculator.  
+One challenge i had was getting out of the mindset of using methods only as i had to figure out how to transcribe a method only into object based which is difficult to me as i barely understand the object stuff as it is.
+The object based is a big change for me as I am used to method based with python and functions as well.
+I resolved it by looking at other peoples code onliune and taking tips and tricks to copy in there foot step a little to understand how objects work better.
